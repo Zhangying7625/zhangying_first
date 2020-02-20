@@ -1,2 +1,1 @@
-# zhangying_first
-exercise
+For practice only
